@@ -8,4 +8,9 @@
 
 #define MAX_CRAZY 0X55666888
 
+/*
+*for test //test branch
+*/
+#define GOOD 1
+#define BAD  0
 #endif
